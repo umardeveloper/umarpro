@@ -1,0 +1,30 @@
+.drink-cofe .container{
+    display: flex;
+}
+.drink-cofe__img
+{
+    width: 485px;
+    margin-top: 168px;
+    border-radius: 10px;
+}
+.drink-cofe__info{
+    width: 540px;
+    margin-left: 125px;
+    margin-top: 258px;
+}
+.info__heading
+{
+    font-family: 'Fraunces', serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 48px;
+}
+.info-des
+{
+    font-family: 'Barlow', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+}

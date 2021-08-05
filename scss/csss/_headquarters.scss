@@ -1,0 +1,27 @@
+.headquarters .container
+{
+    margin-top: 168px;
+}
+.headquarters__heading
+{
+    font-family: 'Fraunces', serif ;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 32px;
+    color: #83888F;
+}
+.headquarters__div{
+    width: 1045px;
+    display: flex;
+    justify-content: space-between;
+}
+.item__heading
+{
+    font-family: 'Fraunces',serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 36px;
+    color: #333D4B;
+}
